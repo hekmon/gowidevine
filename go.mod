@@ -1,4 +1,4 @@
-module github.com/iyear/gowidevine
+module github.com/hekmon/gowidevine
 
 go 1.18
 
